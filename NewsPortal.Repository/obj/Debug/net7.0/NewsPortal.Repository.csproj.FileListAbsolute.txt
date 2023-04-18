@@ -1,0 +1,15 @@
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\bin\Debug\net7.0\NewsPortal.Repository.deps.json
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\bin\Debug\net7.0\NewsPortal.Repository.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\bin\Debug\net7.0\NewsPortal.Repository.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\bin\Debug\net7.0\NewsPortal.DAL.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\bin\Debug\net7.0\NewsPortal.DAL.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.csproj.AssemblyReference.cache
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.csproj.CoreCompileInputs.cache
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.csproj.CopyComplete
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\refint\NewsPortal.Repository.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\ref\NewsPortal.Repository.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\bin\Debug\net7.0\NewsPortal.Repository.runtimeconfig.json
+D:\DiplomskiRadNewsPortal\NewsPortal.Repository\obj\Debug\net7.0\NewsPortal.Repository.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.BusinessLogic.deps.json
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.BusinessLogic.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.BusinessLogic.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.DAL.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.Repository.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.Repository.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.DAL.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.csproj.AssemblyReference.cache
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.csproj.CopyComplete
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\refint\NewsPortal.BusinessLogic.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.pdb
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\ref\NewsPortal.BusinessLogic.dll
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\bin\Debug\net7.0\NewsPortal.BusinessLogic.runtimeconfig.json
+D:\DiplomskiRadNewsPortal\NewsPortal.BusinessLogic\obj\Debug\net7.0\NewsPortal.BusinessLogic.genruntimeconfig.cache
